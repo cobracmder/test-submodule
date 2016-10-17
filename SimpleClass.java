@@ -5,4 +5,7 @@ public class SimpleClass {
     
     public SimpleClass() {}
 
+    public String toString() {
+        return myString;
+    }
 }
