@@ -1,1 +1,4 @@
-alskjdf;lkasjdf
+
+public class SimpleClass {
+
+}
